@@ -62,7 +62,16 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 
 ## The rationale to map the business requirements to the Data Visualizations and ML tasks
-* List your business requirements and a rationale to map them to the Data Visualizations and ML tasks
+
+* The ML model should be able to predict future stock prices with an accuracy of at least 80%
+
+* The algorithm should be able to handle market volatility and generate trading recommendations based on the predicted price trends.
+
+* The ML model's output should be integrated in a simple streamlit application that is easy to use and accessible for users to access and utilize quickly and efficiantly
+
+* The application should provide data analytics and visualizations that can help users understand the market trends and use the model's predictions, together with their own market knowledge, to make more informed trading descisions.
+
+* The UI should be user friendly to allow users with varying technological knowledge to use the application effectively.
 
 
 ## ML Business Case
